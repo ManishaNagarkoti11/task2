@@ -1,1 +1,62 @@
-
+[
+{
+"Firstname":"Shreejana",
+"Lastname": "Rana",
+"Address":"Tansen, Palpa",
+"Phone no.":"9812340056"
+},
+{
+"Firstname":"Saurav",
+"Lastname": "Bandari",
+"Address":"Maysam, Palpa",
+"Phone no.":"9855340056"
+},
+{
+"Firstname":"Muna",
+"Lastname": "Bista",
+"Address":"Chaura, Butwal",
+"Phone no.":"9898357560"
+},
+{
+"Firstname":"Rakshya",
+"Lastname": "Khanal",
+"Address":"Jankinagar, Butwal",
+"Phone no.":"9812740056"
+},
+{
+"Firstname":"Sandesh",
+"Lastname": "Shrestha",
+"Address":"Tansen, tahu",
+"Phone no.":"9812980056"
+},
+{
+"Firstname":"Anish",
+"Lastname": "Ghimire",
+"Address":"Maysam, Palpa",
+"Phone no.":"9802345056"
+},
+{
+"Firstname":"Nana",
+"Lastname": "Ghataraj",
+"Address":"Kholan, Palpa",
+"Phone no.":"9804555600"
+},
+{
+"Firstname":"Rezu",
+"Lastname": "Bandari",
+"Address":"bhaktapur, Kathmandu",
+"Phone no.":"9812340056"
+},
+{
+"Firstname":"Anisha",
+"Lastname": "Bhandari",
+"Address":"Kathmandu",
+"Phone no.":"9819990056"
+},
+{
+"Firstname":"Shisam",
+"Lastname": "Thapa",
+"Address":"Tansen, Palpa",
+"Phone no.":"9866340056"
+},
+]
