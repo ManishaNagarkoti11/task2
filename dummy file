@@ -1,62 +1,62 @@
 [
 {
-"Firstname":"Shreejana",
-"Lastname": "Rana",
-"Address":"Tansen, Palpa",
-"Phoneno":"9812340056"
+"firstName":"Shreejana",
+"lastName": "Rana",
+"address":"Tansen, Palpa",
+"phoneNo":"9812340056"
 },
 {
-"Firstname":"Saurav",
-"Lastname": "Bandari",
-"Address":"Maysam, Palpa",
-"Phoneno":"9855340056"
+"firstName":"Saurav",
+"lastName": "Bandari",
+"address":"Maysam, Palpa",
+"phoneNo":"9855340056"
 },
 {
-"Firstname":"Muna",
-"Lastname": "Bista",
-"Address":"Chaura, Butwal",
-"Phoneno":"9898357560"
+"firstName":"Muna",
+"lastName": "Bista",
+"address":"Chaura, Butwal",
+"phoneNo":"9898357560"
 },
 {
-"Firstname":"Rakshya",
-"Lastname": "Khanal",
-"Address":"Jankinagar, Butwal",
-"Phoneno":"9812740056"
+"firstName":"Rakshya",
+"lastName": "Khanal",
+"address":"Jankinagar, Butwal",
+"phoneNo":"9812740056"
 },
 {
-"Firstname":"Sandesh",
-"Lastname": "Shrestha",
-"Address":"Tansen, tahu",
-"Phoneno":"9812980056"
+"firstName":"Sandesh",
+"lastName": "Shrestha",
+"address":"Tansen, tahu",
+"phoneNo":"9812980056"
 },
 {
-"Firstname":"Anish",
-"Lastname": "Ghimire",
-"Address":"Maysam, Palpa",
-"Phoneno":"9802345056"
+"firstName":"Anish",
+"lastName": "Ghimire",
+"address":"Maysam, Palpa",
+"phoneNo":"9802345056"
 },
 {
-"Firstname":"Nana",
-"Lastname": "Ghataraj",
-"Address":"Kholan, Palpa",
-"Phoneno":"9804555600"
+"firstName":"Nana",
+"lastName": "Ghataraj",
+"address":"Kholan, Palpa",
+"phoneNo":"9804555600"
 },
 {
-"Firstname":"Rezu",
-"Lastname": "Bandari",
-"Address":"bhaktapur, Kathmandu",
-"Phoneno":"9812340056"
+"firstName":"Rezu",
+"lastName": "Bandari",
+"address":"bhaktapur, Kathmandu",
+"phoneNo":"9812340056"
 },
 {
-"Firstname":"Anisha",
-"Lastname": "Bhandari",
-"Address":"Kathmandu",
-"Phoneno":"9819990056"
+"firstName":"Anisha",
+"lastName": "Bhandari",
+"address":"Kathmandu",
+"phoneNo":"9819990056"
 },
 {
-"Firstname":"Shisam",
-"Lastname": "Thapa",
-"Address":"Tansen, Palpa",
-"Phoneno":"9866340056"
+"firstName":"Shisam",
+"lastName": "Thapa",
+"address":"Tansen, Palpa",
+"phoneNo":"9866340056"
 },
 ]
